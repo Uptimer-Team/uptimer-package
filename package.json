@@ -1,0 +1,22 @@
+{
+  "name": "uptimer-discord",
+  "version": "1.0.3",
+  "description": "Package For Uptimer To Uptime",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uptimer-Team/uptimer-package.git"
+  },
+  "keywords": [
+    "Uptimer"
+  ],
+  "author": "Uptimer-Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Uptimer-Team/uptimer-package/issues"
+  },
+  "homepage": "https://github.com/Uptimer-Team/uptimer-package#readme"
+}
